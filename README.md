@@ -33,7 +33,7 @@
 
 - Recommender Systems
 - Machine Learning
-- Large Language Models for Recommendation
+- Large Language Models
 
 ## Tech Stack
 
