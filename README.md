@@ -1,7 +1,7 @@
 ## Education
 
-- `2025.03 ~ Present` **M.S. Candidate**, Department of Big Data Analytics, Kyung Hee University (GPA: 4.06 / 4.3)
-- `2019.03 ~ 2025.02` **B.S.**, Department of Electronics Engineering, Kangwon National University (GPA: 3.44 / 4.5)
+- `2025.03 ~ Present` **M.S. Candidate**, Department of Big Data Analytics, Kyung Hee University
+- `2019.03 ~ 2025.02` **B.S.**, Department of Electronics Engineering, Kangwon National University
 
 ## Papers
 
