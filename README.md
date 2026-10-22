@@ -1,26 +1,46 @@
 ## Education
 
-- **M.S. Candidate**, Department of Big Data Analytics, Kyung Hee University, South Korea.
-- **B.S.**, Electronic Engineering.
+- `2025.03 ~ Present` **M.S. Candidate**, Department of Big Data Analytics, Kyung Hee University (GPA: 4.06 / 4.3)
+- `2019.03 ~ 2025.02` **B.S.**, Department of Electronics Engineering, Kangwon National University (GPA: 3.44 / 4.5)
 
 ## Papers
 
-- **Kim, D.**, Woo, S., Park, S., Li, X., & Kim, J. (2026). "Leveraging large language models for domain-agnostic aspect-aware recommendation." *Expert Systems*. **Accepted; in production.** [[Code]](https://github.com/KDH999/DAAR)
+- **Kim, D.**, Woo, S., Park, S., Li, X., & Kim, J. (2026). “Leveraging Large Language Models for Domain-Agnostic Aspect-Aware Recommendation.” *Expert Systems*. Accepted; in production. [[Code]](https://github.com/KDH999/DAAR)
 
-## Research Projects
+## Conferences
 
-- **[DAAR — Domain-Agnostic Aspect-Aware Recommendation](https://github.com/KDH999/DAAR)**  
-  LLM-based aspect term extraction, aspect-level sentiment analysis, and attention-based user–item modeling for rating prediction.
+- `2026.10` **김동현**, 김민건, 김재경. “사용자 특성을 고려한 LLM 추론 기반 시퀀셜 추천 프레임워크.” *한국경영과학회 2026년 추계학술대회*.
+- `2026.10` 김민건, **김동현**, 김재경. “L-DPS: Latest-Behavior-Aware Dual-Persona Sequential Recommendation.” *한국경영과학회 2026년 추계학술대회*.
+- `2026.05` 오진성, **김동현**, 박선우, 이흠철, 김재경. “Dynamic Review Representation with Intra- and Inter-Review Set Alignment for Recommendation.” *한국지능정보시스템학회 2026년 춘계학술대회*.
+- `2025.11` **김동현**, 우수현, 박선우, 이흠철, 김재경. “LLM을 활용하여 추출된 속성 기반 추천 시스템.” *한국경영과학회 2025년 추계학술대회*.
 
-- **SeRa-SRec — Semantic-Enhanced and Rationale-Guided Sequential Recommendation** *(Ongoing research)*  
-  Sequential candidate retrieval with SASRec, LLM-based semantic matching, and reasoning-aware reranking.
+## Awards
+
+- `2024.11.19` **장려상** — 2024 강원대학교 IT대학 졸업작품 및 전공작품 경진대회.  
+  *EfficientNetB0 기반 고양이 안구 질환 이진 분류 모델의 성능 개선 연구*
+- `2024.01.19` **은상** — 2023학년도 캡스톤디자인 데이터 리터러시 아이디어 경진대회, 강원대학교 LINC 3.0 사업단.  
+  *KoBERT를 활용한 관광객 대상 음성 데이터 기반 사투리 번역 서비스*
+
+## Certificates
+
+- `2025.02` **컴퓨터활용능력 2급** — 대한상공회의소
+- `2024.09` **SQLD (SQL 개발자)** — 한국데이터산업진흥원
+- `2024.07` **빅데이터분석기사** — 한국데이터산업진흥원
+- `2024.06` **정보처리기사** — 한국산업인력공단
+- `2024.06` **ADsP (데이터분석 준전문가)** — 한국데이터산업진흥원
+- `2022.09` **리눅스마스터 2급** — 한국정보통신진흥협회
+- `2022.03` **워드프로세서** — 대한상공회의소
+
+## Activities
+
+- `2024.06 ~ 2024.08` **OUTTA AI Boot Camp (Data Course)** — 인공지능 교육단체 OUTTA
+- `2024.06 ~ 2024.07` **AWS DeepRacer AI Convergence Training (35 hours)** — 강원정보문화산업진흥원
 
 ## Research Interests
 
-- Recommender Systems & Personalized AI
-- Large Language Models (LLMs) for Recommendation
-- Sequential Recommendation & Reasoning
-- Natural Language Processing & Aspect-Based Sentiment Analysis
+- Recommender Systems
+- Machine Learning
+- Large Language Models for Recommendation
 
 ## Tech Stack
 
