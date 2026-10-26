@@ -9,7 +9,7 @@
 
 ## Conferences
 
-- `2026.10` **김동현**, 김민건, 김재경. “사용자 특성을 고려한 LLM 추론 기반 시퀀셜 추천 프레임워크.” *한국경영과학회 2026년 추계학술대회*.
+- `2026.10` **김동현**, 김민건, 김재경. “A Sequential Recommendation Framework Using LLM Reasoning with User Characteristics.” *한국경영과학회 2026년 추계학술대회*.
 - `2026.10` 김민건, **김동현**, 김재경. “L-DPS: Latest-Behavior-Aware Dual-Persona Sequential Recommendation.” *한국경영과학회 2026년 추계학술대회*.
 - `2026.05` 오진성, **김동현**, 박선우, 이흠철, 김재경. “Dynamic Review Representation with Intra- and Inter-Review Set Alignment for Recommendation.” *한국지능정보시스템학회 2026년 춘계학술대회*.
 - `2025.11` **김동현**, 우수현, 박선우, 이흠철, 김재경. “LLM을 활용하여 추출된 속성 기반 추천 시스템.” *한국경영과학회 2025년 추계학술대회*.
